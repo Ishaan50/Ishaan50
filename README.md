@@ -1,4 +1,4 @@
-## Hi 🌟 , I am Ishaan
+## Hi , I am Ishaan
 
 ## About me :
 
