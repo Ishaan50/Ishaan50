@@ -12,8 +12,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ishaan50 &theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV0emRlcXlqYmR1ZWIzbTl1Z3FnaHJhdHB3azNlOHIwbXlvMjYyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif)
 ### Thank you visiting my profile
