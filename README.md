@@ -18,3 +18,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ishaan50 &icon=2&color=0)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgxG-cIwRPgU4_9hV8A4otR1n3ACdKfBxR5Q&s" />
+</p>
+<h2 align="center">
+  Thanks for visiting my profile! 🚀✨
+</h2>
