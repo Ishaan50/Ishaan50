@@ -15,7 +15,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Ishaan50 &icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV0emRlcXlqYmR1ZWIzbTl1Z3FnaHJhdHB3azNlOHIwbXlvMjYyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif)
+### Thank you visiting my profile
