@@ -16,14 +16,12 @@
 
 <table>
   <tr>
-    <td>
+    <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan50&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
     </td>
-    <td>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV0emRlcXlqYmR1ZWIzbTl1Z3FnaHJhdHB3azNlOHIwbXlvMjYyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif" height="170"/>
+    <td valign="top" align="center">
+      <p><strong>Making random things...</strong></p>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV0emRlcXlqYmR1ZWIzbTl1Z3FnaHJhdHB3azNlOHIwbXlvMjYyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif" height="150"/>
     </td>
   </tr>
 </table>
-
----
-Making random things...
