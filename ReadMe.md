@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan50&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan50&layout=compact&theme=tokyonight&hide_border=true%22%20height=%22170"/>
     </td>
     <td valign="top" align="center">
       <p><strong>Making random things...</strong></p>
