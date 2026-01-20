@@ -9,9 +9,4 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan50&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmV0emRlcXlqYmR1ZWIzbTl1Z3FnaHJhdHB3azNlOHIwbXlvMjYyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sm9AfJRiZofjlrkAAl/giphy.gif)
