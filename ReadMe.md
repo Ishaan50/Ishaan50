@@ -2,12 +2,9 @@
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mailto:ishaanwebdev@gmail.com) 
 
-# 💻 Tech Stack:
+# 💻 Languages i know...:
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ishaan50&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Ishaan50&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan50&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
