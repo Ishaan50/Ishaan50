@@ -13,7 +13,7 @@
 ---
 
 ## Languages Used
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishaan50&layout=compact&theme=tokyonight&hide_border=true)
 <table>
   <tr>
     <td valign="top">
