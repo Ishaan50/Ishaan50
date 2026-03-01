@@ -16,15 +16,8 @@
 
 <p align="center">
   <img 
-    <img src="https://github-readme-stats.vercel.app/api?username=Ishaan50&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Ishaan50's GitHubStats"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishaan50&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
+    src="https://streak-stats.demolab.com?user=Ishaan50&theme=tokyonight&hide_border=true"
+    height="180"
   />
 </p>
 
