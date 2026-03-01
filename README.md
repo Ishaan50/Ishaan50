@@ -42,9 +42,8 @@
 <h3>🐈's terminal...</h3>
 
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1500&pause=1000&color=39FF14&center=true&vCenter=true&width=420&height=120&lines=class+Cat+%7B;int+lives+=+9%3B;System.out.println(%22Meow+Compiled+Successfully%22)%3B&repeat=false" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1500&pause=1000&color=39FF14&center=true&vCenter=true&width=420&height=120&lines=class+Cat+%7B%0Aint+lives+=+9%3B%0ASystem.out.println(%22Meow+Compiled+Successfully%22)%3B&repeat=false" 
 />
-
 </td>
 </tr>
 </table>
