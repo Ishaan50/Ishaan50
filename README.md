@@ -5,7 +5,7 @@
 <h1>Hi 👋, I'm Ishaan</h1>
 <h3>🚀 Passionate Developer & Problem Solver</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&width=520&lines=Python+Developer;Discord+Bot+Developer;Java+Programmer;Node.js+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&width=520&lines=Python+Developer;Discord+Bot+Developer;Java+Programmer;Always+Learning+New+Things" />
 
 <br><br>
 
