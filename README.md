@@ -9,8 +9,6 @@
   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&width=480&lines=Python+Developer;Discord+Bot+Developer;Java+Programmer;Always+Learning+New+Things" 
 />
 
-<br><br>
-
 ### 💻 Tech Stack
 <img 
   src="https://skillicons.dev/icons?i=cpp,java,python,mysql,js&perline=5" 
