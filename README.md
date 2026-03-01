@@ -15,8 +15,7 @@
 <br><br>
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Ishaan50&theme=tokyonight&show_icons=true&hide_border=true" height="165"/>
-
+<img src="https://streak-stats.demolab.com?user=Ishaan50&theme=tokyonight&hide_border=true" alt="Ishaan50's GitHub Stats" />
 </td>
 
 <td width="35%" align="right">
@@ -25,8 +24,3 @@
 </tr>
 </table>
 
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ishaan50&theme=tokyonight&hide_border=true" height="190"/>
-</p>
