@@ -27,11 +27,11 @@
     src="https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif" 
     height="220"
   />
-### 📊 GitHub Stats
+<h1>### 📊 GitHub Stats<h1>
 <img 
   src="https://streak-stats.demolab.com?user=Ishaan50&theme=tokyonight&hide_border=true" 
   alt="Ishaan50's GitHub Stats"
-  height="190"
+  height="220"
 </td>
 </tr>
 </table>
