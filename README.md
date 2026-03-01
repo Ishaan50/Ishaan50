@@ -2,7 +2,7 @@
 <h3 align="center">Building Random Things...</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Discord+Bot+Developer;Node.js+%7C+Python+%7C+Java;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Python Devloper;Discord+Bot+Developer;Java coder;Always+Learning+New+Things" />
 </p>
 
 ---
