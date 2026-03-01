@@ -23,7 +23,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1200&pause=999999&color=39FF14&width=360&lines=boolean+alive+=+9%3B&repeat=false"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1200&pause=999999&color=39FF14&width=360&lines=print(%22Meow+!&repeat=false"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1200&pause=999999&color=39FF14&width=360&lines=print(%22Meow+!)&repeat=false"/>
 
 </td>
 </tr>
