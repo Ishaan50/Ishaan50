@@ -27,7 +27,10 @@
     src="https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif" 
     height="220"
   />
-  <h3>I 💖 🐈s</h3>
+  <h3>🐈's terminal...</h3>
+  <img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=100000&color=39FF14&center=true&vCenter=true&width=300&lines=<cat>cat$</cat>&repeat=false" 
+/>
 </td>
 </tr>
 </table>
