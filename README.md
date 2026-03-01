@@ -1,31 +1,42 @@
-## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishaanwebdev@gmail.com)
-
----
-
-## 💻 Languages I Know...
-![AssemblyScript](https://img.shields.io/badge/AssemblyScript-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hi 👋, I'm Ishaan</h1>
+<h3 align="center">Building Random Things...</h3>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Ishaan50&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Discord+Bot+Developer;Node.js+%7C+Python+%7C+Java;Always+Learning+New+Things" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:ishaanwebdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,nodejs,mongodb,js,html,css" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ishaan50&theme=tokyonight&hide_border=true" height="190"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif" height="160"/>
 </p>
 
 <p align="center">
-  <strong>Making random things...</strong>
-  <br><br>
-  <img 
-    src="https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif"
-    height="150"
-  />
+  ⭐ <strong>Making random things...</strong>
 </p>
