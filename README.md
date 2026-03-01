@@ -28,11 +28,13 @@
     height="220"
   />
   <h3>🐈's terminal...</h3>
-  <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=100000&color=39FF14&center=true&vCenter=true&width=300&lines=class cat{&repeat=false" 
-  />
- <img 
-   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=100000&color=39FF14&center=true&vCenter=true&width=300&lines=int cat = many;&repeat=false" 
+
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=100000&color=39FF14&center=true&vCenter=true&width=300&lines=class+cat%7B&repeat=false" 
+/>
+
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=100000&color=39FF14&center=true&vCenter=true&width=300&lines=int+cat+=+many%3B&repeat=false" 
 />
 </td>
 </tr>
