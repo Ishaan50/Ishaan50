@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ishaan</h1>
-<h3 align="center">🚀 Building Random (But Cool) Things</h3>
+<table>
+<tr>
+<td>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=550&lines=Python+Developer;Discord+Bot+Developer;Java+Programmer;Always+Learning+New+Things" 
-  />
-</p>
+<h1>Hi 👋, I'm Ishaan</h1>
+<h3>🚀 Building Random Things...</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&width=500&lines=Python+Developer;Discord+Bot+Developer;Java+Programmer;Always+Learning+New+Things" />
+
+</td>
+
+<td align="right">
+  <img src="https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif" height="170"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -22,7 +30,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,nodejs,mongodb,js,html,css&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,mysql,js&perline=9" />
 </p>
 
 ---
@@ -34,17 +42,4 @@
     src="https://streak-stats.demolab.com?user=Ishaan50&theme=tokyonight&hide_border=true" 
     height="190"
   />
-</p>
-
----
-
-<p align="center">
-  <img 
-    src="https://media.giphy.com/media/Sm9AfJRiZofjlrkAAl/giphy.gif" 
-    height="160"
-  />
-</p>
-
-<p align="center">
-  ⭐ <strong>Making random things...</strong>
 </p>
