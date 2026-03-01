@@ -1,9 +1,8 @@
 <table>
 <tr>
 <td width="60%" valign="top">
-
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=250&lines=Ishaan" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=9999999&color=39FF14&center=true&vCenter=true&width=250&lines=Ishaan&repeat=false" 
 />
 <img 
   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&width=480&lines=Python+Developer;Discord+Bot+Developer;Java+Programmer;Always+Learning+New+Things" 
