@@ -2,9 +2,9 @@
 <tr>
 <td width="60%" valign="top">
 
-<h1>Hi 👋, I'm Ishaan</h1>
-<h3>🚀 Passionate Developer & Problem Solver</h3>
-
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=250&lines=Ishaan" 
+/>
 <img 
   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&width=480&lines=Python+Developer;Discord+Bot+Developer;Java+Programmer;Always+Learning+New+Things" 
 />
@@ -14,7 +14,7 @@
   src="https://skillicons.dev/icons?i=cpp,java,python,mysql,js&perline=5" 
 />
 
-###📊 GitHub Stats
+### 📊 GitHub Stats
 <img 
   src="https://streak-stats.demolab.com?user=Ishaan50&theme=tokyonight&hide_border=true" 
   alt="Ishaan50's GitHub Stats"
